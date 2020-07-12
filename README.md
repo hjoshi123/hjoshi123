@@ -8,10 +8,16 @@ Hi there 👋, I'm Hemant Joshi - a backend developer proficient in golang, node
 * [NCli](https://github.com/hjoshi123/NCli) - Golang cli to get different details of a domain like A records, MX records.
 * [NewsNow](https://github.com/hjoshi123/NewsNow) - Android app to get live news across countries from various news providers in different categories like Tech, Politics
 * [HopOn-Proxy](https://github.com/hjoshi123/HopOn-Proxy) - A HTTP/HTTPS proxy using Golang
+<hr>
+<p align="center">
+  <i>Let's connect and chat! ACK and you shall receive.</i>
 
-#### ping @hjoshi123
-* Twitter: [https://twitter.com/hemantj123](https://twitter.com/hemantj123)
-* LinkedIn: [https://www.linkedin.com/in/hemantj0/](https://www.linkedin.com/in/hemantj0/)
+  <p align="center">
+    <a href="https://twitter.com/hemantj123" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/hemantj0/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:joshi19981998@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+  </p>
+</p>
 <!--
 **hjoshi123/hjoshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
