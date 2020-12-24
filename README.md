@@ -1,34 +1,48 @@
-### Hemant Joshi - @hjoshi123 
-#### whoami
-Hi there 👋, I'm Hemant Joshi - a backend developer proficient in golang, nodejs and Spring MVC. Also an Android App developer worked on many freelancing projects. Currently interning at McAfee Software India Pvt Ltd. I'm a geek.. Star Wars :3 and Blockchain. Ping me if you are interested in anything related to servers and decentralization.
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/hemantj123">
+  <img align="left" alt="Hemant Joshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hemantj0/">
+  <img align="left" alt="Hemant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/hjoshi_dev?si=x9ayM9d0TL6TB8_xmX78lw">
+  <img align="left" alt="Hemant's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.reddit.com/user/hjoshi_dev">
+  <img align="left" alt="Hemant's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+</a>
 
-#### ls -a | grep "Recent Projects"
-* [NSEBoardingMeetings](https://github.com/hjoshi123/NSEBoardMeetings) - Golang app to check recent board meetings of different listed companies.
-* [Coinfy](https://github.com/adigupta13/CoinDiff) - A definitive guide to compare trading prices for cryptocurrencies from different exchanges.
-* [NCli](https://github.com/hjoshi123/NCli) - Golang cli to get different details of a domain like A records, MX records.
-* [NewsNow](https://github.com/hjoshi123/NewsNow) - Android app to get live news across countries from various news providers in different categories like Tech, Politics
-* [HopOn-Proxy](https://github.com/hjoshi123/HopOn-Proxy) - A HTTP/HTTPS proxy using Golang
-<hr>
-<p align="center">
-  <i>Let's connect and chat! ACK and you shall receive.</i>
+![](https://visitor-badge.glitch.me/badge?page_id=hjoshi123.hjoshi123)
 
-  <p align="center">
-    <a href="https://twitter.com/hemantj123" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/hemantj0/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:joshi19981998@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-  </p>
-</p>
-<!--
-**hjoshi123/hjoshi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate self-taught Backend Developer from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/hjoshi123/hjoshi123/master/carbon.png" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Golang; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@hemantj123](https://twitter.com/hemantj123);
+- 📝 [Resume](https://drive.google.com/file/d/1kBj3YRPN6kkXe8QsWriw202jncRo5VN-/view)
+
+**Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺
+
+<a href="https://www.buymeacoffee.com/hjoshi123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hjoshi123&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="hjoshi123" />
