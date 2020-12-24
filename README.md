@@ -18,7 +18,7 @@
 
 Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate self-taught Backend Developer from India.
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/hjoshi123/hjoshi123/master/carbon.png" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/hjoshi123/hjoshi123/master/carbon.png" width="600" height="320" />
   
 **Talking about Personal Stuffs:**
 
