@@ -23,8 +23,8 @@ Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate 
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Golang; 
-- 💬 Ask me about anything, I am happy to help;
+- 🌱 I’m currently learning Golang and Algorithms; 
+- 💬 Ask me about anything related to Backend, I am happy to help;
 - 📫 How to reach me: [@hemantj123](https://twitter.com/hemantj123);
 - 📝 [Resume](https://drive.google.com/file/d/1kBj3YRPN6kkXe8QsWriw202jncRo5VN-/view)
 
