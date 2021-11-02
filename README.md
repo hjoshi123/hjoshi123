@@ -42,7 +42,7 @@ Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate 
 📊 **Spending My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Go           1 hr 56 mins    ████████████████████████▓   99.26 % 
+Go           2 hrs 10 mins   ████████████████████████▓   99.33 % 
 ```
 <!--END_SECTION:waka-->
 
