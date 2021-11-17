@@ -42,7 +42,8 @@ Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate 
 📊 **Spending My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Terraform   2 hrs 4 mins    ████████████████████████░   96.64 % 
+Docker      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
 
