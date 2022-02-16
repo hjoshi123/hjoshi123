@@ -42,6 +42,8 @@ Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate 
 📊 **Spending My Time On:**
 <!--START_SECTION:waka-->
 ```text
+Total: 13 hrs 32 mins
+
 YAML         4 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   33.71 % 
 Bash         4 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.16 % 
 Terraform    2 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 % 
