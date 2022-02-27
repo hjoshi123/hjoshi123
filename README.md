@@ -1,52 +1,71 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/hemantj123">
-  <img align="left" alt="Hemant Joshi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/hemantj0/">
-  <img align="left" alt="Hemant's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/hjoshi_dev?si=x9ayM9d0TL6TB8_xmX78lw">
-  <img align="left" alt="Hemant's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-<a href="https://www.reddit.com/user/hjoshi_dev">
-  <img align="left" alt="Hemant's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Hemant</h1>
+
+<div align="center">
+  <a href="https://twitter.com/hemantj123">
+    <img alt="Hemant Joshi | Twitter" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemantj0/">
+    <img alt="Hemant's LinkedIN" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://open.spotify.com/user/hjoshi_dev?si=x9ayM9d0TL6TB8_xmX78lw">
+    <img alt="Hemant's Spotify" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  </a>
+  <a href="https://www.reddit.com/user/hjoshi_dev">
+    <img alt="Hemant's Reddit"  width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  </a>
+</div>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hjoshi123.hjoshi123)
+<h3 align="center">I'm a passionate self-taught Backend Developer from India.</h3>
 
-<br />
+- 💻 I’m currently working on Golang and DevOps with AWS @ [Seniorly](https://seniorly.com);
 
-Hi, I'm [Hemant Joshi!](https://hjoshi123.github.io/hemant-joshi), a passionate self-taught Backend Developer from India.
+- 🌱 I’m currently learning Rust; 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/hjoshi123/hjoshi123/master/carbon.png" width="600" height="320" />
-  
-**Talking about Personal Stuffs:**
+- 💬 Ask me about anything related to Backend and DevOps, I am happy to help;
 
-- 💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Golang and Algorithms; 
-- 💬 Ask me about anything related to Backend, I am happy to help;
 - 📫 How to reach me: [@hemantj123](https://twitter.com/hemantj123);
-- 📝 [Resume](https://drive.google.com/file/d/1kBj3YRPN6kkXe8QsWriw202jncRo5VN-/view)
 
-**Languages and Tools:**
+- 📝 [hjoshi.me](https://hjoshi.me)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" alt="docker" width="50" height="40"/> 
+  </a>
+  <a href="https://go.dev/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
+  </a>
+  <a href="" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg" alt="RPi" width="40" height="40" />
+  </a>
+</p>
 
 📊 **Spending My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Go       7 hrs 55 mins   ███████████████▓░░░░░░░░░   62.38 % 
-Rust     3 hrs 12 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.20 % 
-YAML     1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Bash     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Docker   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Go       9 hrs 3 mins    ███████████████░░░░░░░░░░   60.24 % 
+Rust     2 hrs 55 mins   █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+YAML     2 hrs 26 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Docker   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Bash     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
