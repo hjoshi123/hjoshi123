@@ -15,8 +15,6 @@
   </a>
 </div>
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=hjoshi123.hjoshi123)
 <h3 align="center">I'm a passionate self-taught Backend Developer from India.</h3>
 
 - 💻 I’m currently working on Golang and DevOps with AWS @ [Seniorly](https://seniorly.com);
@@ -74,5 +72,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺
 <a href="https://www.buymeacoffee.com/hjoshi123" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 📈 My GitHub Stats
+
+![](https://visitor-badge.glitch.me/badge?page_id=hjoshi123.hjoshi123)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hjoshi123&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="hjoshi123" />
