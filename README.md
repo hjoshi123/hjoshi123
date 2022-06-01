@@ -60,9 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    6 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   31.82 %
-Go           6 hrs 9 mins    ████████░░░░░░░░░░░░░░░░░   31.77 %
-Other        4 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 %
+Terraform    5 hrs 26 mins   ████████▒░░░░░░░░░░░░░░░░   33.12 %
+Go           4 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.96 %
+Other        4 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
 ```
 
 <!--END_SECTION:waka-->
