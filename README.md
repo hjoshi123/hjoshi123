@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Hemant</h1>
+<h1 align="center">Hey there, I'm Hemant</h1>
 
 <div align="center">
   <a href="https://twitter.com/hemantj123">
@@ -7,25 +7,19 @@
   <a href="https://www.linkedin.com/in/hemantj0/">
     <img alt="Hemant's LinkedIN" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="https://open.spotify.com/user/hjoshi_dev?si=x9ayM9d0TL6TB8_xmX78lw">
-    <img alt="Hemant's Spotify" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
-  <a href="https://www.reddit.com/user/hjoshi_dev">
-    <img alt="Hemant's Reddit"  width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-  </a>
 </div>
 
 <h3 align="center">I'm a passionate self-taught Backend Developer from India.</h3>
 
 - 💻 I’m currently working on Golang and DevOps with AWS @ [Seniorly](https://seniorly.com);
 
-- 🌱 I’m currently learning Rust; 
+- 🌱 I’m currently learning about Linux Kernel; 
 
 - 💬 Ask me about anything related to Backend and DevOps, I am happy to help;
 
 - 📫 How to reach me: [@hemantj123](https://twitter.com/hemantj123);
 
-- 📝 [hjoshi.me](https://hjoshi.me)
+- 📝 Hop on to [hjoshi.me](https://hjoshi.me) and do visit my [blog](https://blog.hjoshi.me)
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -47,9 +41,6 @@
   </a> 
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" />
   </a>
   <a href="" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/raspberrypi/raspberrypi-original.svg" alt="RPi" width="40" height="40" />
