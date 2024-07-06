@@ -51,10 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         10 mins         ███████████████████████░░   91.56 %
-JavaScript   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
