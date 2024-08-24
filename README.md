@@ -51,8 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          █████████████░░░░░░░░░░░░   51.62 %
-YAML     0 secs          ████████████░░░░░░░░░░░░░   48.38 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
