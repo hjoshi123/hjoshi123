@@ -51,7 +51,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go             59 mins         ███████████▒░░░░░░░░░░░░░   45.06 %
+YAML           44 mins         ████████▒░░░░░░░░░░░░░░░░   33.35 %
+HCL            26 mins         █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+Markdown       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Terraform      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
