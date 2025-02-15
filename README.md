@@ -5,13 +5,13 @@
     <img alt="Hemant Joshi | Twitter" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/hemantj0/">
-    <img alt="Hemant's LinkedIN" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    <img alt="Hemant's LinkedIN" width="40" height="40" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" />
   </a>
 </div>
 
-<h3 align="center">I'm a passionate self-taught Backend Developer from India.</h3>
+<h3 align="center">I'm a passionate self-taught Backend and DevOps Engineer.</h3>
 
-- 💻 I’m currently working on Golang and DevOps with AWS @ [Seniorly](https://seniorly.com);
+- 💻 I’m currently working on Golang and DevOps with AWS @ [Walmart](https://www.walmart.com);
 
 - 🌱 I’m currently learning about Linux Kernel; 
 
