@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://twitter.com/hemantj123">
-    <img alt="Hemant Joshi | Twitter" width="40" height="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img alt="Hemant Joshi | Twitter" width="40" height="40" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" />
   </a>
   <a href="https://www.linkedin.com/in/hemantj0/">
     <img alt="Hemant's LinkedIN" width="40" height="40" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" />
