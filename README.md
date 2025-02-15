@@ -13,13 +13,13 @@
 
 - 💻 I’m currently working on Golang and DevOps with AWS @ [Walmart](https://www.walmart.com);
 
-- 🌱 I’m currently learning about Linux Kernel; 
+- 🌱 Currently contributing to various open source projects like [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws).  
 
 - 💬 Ask me about anything related to Backend and DevOps, I am happy to help;
 
-- 📫 How to reach me: [@hemantj123](https://twitter.com/hemantj123);
+- 📫 How to reach me: [Hemant Joshi](https://www.linkedin.com/in/hemantj0)
 
-- 📝 Hop on to [hjoshi.me](https://hjoshi.me) and do visit my [blog](https://blog.hjoshi.me)
+- 📝 Hop on to [hjoshi.me](https://hjoshi.me) to learn more about me.
 
 <h3 align="center">Languages and Tools:</h3>
 
