@@ -51,10 +51,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML        10 mins         ████████████████████░░░░░   79.81 %
-Go          2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.11 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
