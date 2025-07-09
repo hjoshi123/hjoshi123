@@ -51,7 +51,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Smarty   7 mins          ████████████████████████▓   98.91 %
+YAML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
