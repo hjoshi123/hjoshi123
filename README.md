@@ -51,10 +51,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                 4 hrs 33 mins   ████████████████████████░   95.59 %
-Other                10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Terraform            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Terraform Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+YAML                 4 hrs 29 mins   ████████████████████████▓   98.03 %
+Other                3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Terraform            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Terraform Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
