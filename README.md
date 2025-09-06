@@ -11,9 +11,9 @@
 
 <h3 align="center">I'm a passionate self-taught Backend and DevOps Engineer.</h3>
 
-- 💻 I’m currently working on Golang and DevOps with AWS @ [Walmart](https://www.walmart.com);
+- 💻 I’m currently working on building a multi-cloud kubernetes platform @ [Walmart](https://www.walmart.com);
 
-- 🌱 Currently contributing to various open source projects like [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws).  
+- 🌱 Currently contributing to various open source projects like [Cert-Manager](https://github.com/cert-manager/cert-manager).  
 
 - 💬 Ask me about anything related to Backend and DevOps, I am happy to help;
 
