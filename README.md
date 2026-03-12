@@ -13,7 +13,7 @@
 
 - 💻 I’m currently working on building a multi-cloud kubernetes platform @ [Walmart](https://www.walmart.com);
 
-- 🌱 Currently contributing and reviewing code to various open source projects like [Cert-Manager](https://github.com/cert-manager/cert-manager).  
+- 🌱 Currently a Maintainer in CNCF graduated [Cert-Manager](https://github.com/cert-manager/cert-manager).  
 
 - 💬 Ask me about anything related to Backend and DevOps, I am happy to help;
 
